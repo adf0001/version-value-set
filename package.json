@@ -1,0 +1,27 @@
+{
+  "name": "version-value-set",
+  "version": "1.0.1",
+  "description": "value set with version number",
+  "main": "version-value-set.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "value",
+    "set",
+    "version"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/version-value-set.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/version-value-set/issues"
+  },
+  "homepage": "https://github.com/adf0001/version-value-set#readme"
+}
